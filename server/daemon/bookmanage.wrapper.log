@@ -1,0 +1,144 @@
+2021-10-22 14:33:09 - Starting D:\nodejs\node.exe  --harmony D:\nodejs\2.0\GMF_demoV2\node_modules\node-windows\lib\wrapper.js --file D:\nodejs\2.0\GMF_demoV2\server\index.js --scriptoptions= --log "bookmanage wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-10-22 14:33:09 - Started 4472
+2021-11-03 21:26:17 - Stopping bookmanage.exe
+2021-11-03 21:26:17 - ProcessKill 4472
+2021-11-03 21:26:17 - Shutdown exception
+Message:系统正在关机。
+
+Stacktrace:   在 System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   在 System.Management.ManagementScope.InitializeGuts(Object o)
+   在 System.Management.ManagementScope.Initialize()
+   在 System.Management.ManagementObjectSearcher.Initialize()
+   在 System.Management.ManagementObjectSearcher.Get()
+   在 winsw.WrapperService.GetChildPids(Int32 pid)
+   在 winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   在 winsw.WrapperService.StopIt()
+   在 winsw.WrapperService.OnShutdown()
+2021-11-03 21:29:40 - Starting D:\nodejs\node.exe  --harmony D:\nodejs\2.0\GMF_demoV2\node_modules\node-windows\lib\wrapper.js --file D:\nodejs\2.0\GMF_demoV2\server\index.js --scriptoptions= --log "bookmanage wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-11-03 21:29:41 - Started 7336
+2021-11-03 23:32:27 - Stopping bookmanage.exe
+2021-11-03 23:32:27 - ProcessKill 7336
+2021-11-03 23:32:27 - Shutdown exception
+Message:系统正在关机。
+
+Stacktrace:   在 System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   在 System.Management.ManagementScope.InitializeGuts(Object o)
+   在 System.Management.ManagementScope.Initialize()
+   在 System.Management.ManagementObjectSearcher.Initialize()
+   在 System.Management.ManagementObjectSearcher.Get()
+   在 winsw.WrapperService.GetChildPids(Int32 pid)
+   在 winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   在 winsw.WrapperService.StopIt()
+   在 winsw.WrapperService.OnShutdown()
+2021-11-04 13:08:30 - Starting D:\nodejs\node.exe  --harmony D:\nodejs\2.0\GMF_demoV2\node_modules\node-windows\lib\wrapper.js --file D:\nodejs\2.0\GMF_demoV2\server\index.js --scriptoptions= --log "bookmanage wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-11-04 13:08:31 - Started 7936
+2021-11-05 23:39:48 - Stopping bookmanage.exe
+2021-11-05 23:39:48 - ProcessKill 7936
+2021-11-05 23:39:49 - Shutdown exception
+Message:系统正在关机。
+
+Stacktrace:   在 System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   在 System.Management.ManagementScope.InitializeGuts(Object o)
+   在 System.Management.ManagementScope.Initialize()
+   在 System.Management.ManagementObjectSearcher.Initialize()
+   在 System.Management.ManagementObjectSearcher.Get()
+   在 winsw.WrapperService.GetChildPids(Int32 pid)
+   在 winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   在 winsw.WrapperService.StopIt()
+   在 winsw.WrapperService.OnShutdown()
+2021-11-06 09:58:52 - Starting D:\nodejs\node.exe  --harmony D:\nodejs\2.0\GMF_demoV2\node_modules\node-windows\lib\wrapper.js --file D:\nodejs\2.0\GMF_demoV2\server\index.js --scriptoptions= --log "bookmanage wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-11-06 09:58:53 - Started 7808
+2021-11-06 15:54:42 - Stopping bookmanage.exe
+2021-11-06 15:54:42 - ProcessKill 7808
+2021-11-06 15:54:42 - Shutdown exception
+Message:系统正在关机。
+
+Stacktrace:   在 System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   在 System.Management.ManagementScope.InitializeGuts(Object o)
+   在 System.Management.ManagementScope.Initialize()
+   在 System.Management.ManagementObjectSearcher.Initialize()
+   在 System.Management.ManagementObjectSearcher.Get()
+   在 winsw.WrapperService.GetChildPids(Int32 pid)
+   在 winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   在 winsw.WrapperService.StopIt()
+   在 winsw.WrapperService.OnShutdown()
+2021-11-06 15:55:20 - Starting D:\nodejs\node.exe  --harmony D:\nodejs\2.0\GMF_demoV2\node_modules\node-windows\lib\wrapper.js --file D:\nodejs\2.0\GMF_demoV2\server\index.js --scriptoptions= --log "bookmanage wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-11-06 15:55:21 - Started 7932
+2021-11-08 22:46:57 - Stopping bookmanage.exe
+2021-11-08 22:46:57 - ProcessKill 7932
+2021-11-08 22:46:57 - Shutdown exception
+Message:系统正在关机。
+
+Stacktrace:   在 System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   在 System.Management.ManagementScope.InitializeGuts(Object o)
+   在 System.Management.ManagementScope.Initialize()
+   在 System.Management.ManagementObjectSearcher.Initialize()
+   在 System.Management.ManagementObjectSearcher.Get()
+   在 winsw.WrapperService.GetChildPids(Int32 pid)
+   在 winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   在 winsw.WrapperService.StopIt()
+   在 winsw.WrapperService.OnShutdown()
+2021-11-09 09:31:36 - Starting D:\nodejs\node.exe  --harmony D:\nodejs\2.0\GMF_demoV2\node_modules\node-windows\lib\wrapper.js --file D:\nodejs\2.0\GMF_demoV2\server\index.js --scriptoptions= --log "bookmanage wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-11-09 09:31:37 - Started 8256
+2021-11-10 23:27:44 - Stopping bookmanage.exe
+2021-11-10 23:27:44 - ProcessKill 8256
+2021-11-10 23:27:44 - Shutdown exception
+Message:系统正在关机。
+
+Stacktrace:   在 System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   在 System.Management.ManagementScope.InitializeGuts(Object o)
+   在 System.Management.ManagementScope.Initialize()
+   在 System.Management.ManagementObjectSearcher.Initialize()
+   在 System.Management.ManagementObjectSearcher.Get()
+   在 winsw.WrapperService.GetChildPids(Int32 pid)
+   在 winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   在 winsw.WrapperService.StopIt()
+   在 winsw.WrapperService.OnShutdown()
+2021-11-10 23:28:43 - Starting D:\nodejs\node.exe  --harmony D:\nodejs\2.0\GMF_demoV2\node_modules\node-windows\lib\wrapper.js --file D:\nodejs\2.0\GMF_demoV2\server\index.js --scriptoptions= --log "bookmanage wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-11-10 23:28:44 - Started 6516
+2021-11-10 23:29:25 - Stopping bookmanage.exe
+2021-11-10 23:29:25 - ProcessKill 6516
+2021-11-10 23:29:25 - Shutdown exception
+Message:系统正在关机。
+
+Stacktrace:   在 System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   在 System.Management.ManagementScope.InitializeGuts(Object o)
+   在 System.Management.ManagementScope.Initialize()
+   在 System.Management.ManagementObjectSearcher.Initialize()
+   在 System.Management.ManagementObjectSearcher.Get()
+   在 winsw.WrapperService.GetChildPids(Int32 pid)
+   在 winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   在 winsw.WrapperService.StopIt()
+   在 winsw.WrapperService.OnShutdown()
+2021-11-11 12:22:26 - Starting D:\nodejs\node.exe  --harmony D:\nodejs\2.0\GMF_demoV2\node_modules\node-windows\lib\wrapper.js --file D:\nodejs\2.0\GMF_demoV2\server\index.js --scriptoptions= --log "bookmanage wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-11-11 12:22:27 - Started 6844
+2021-11-12 14:20:17 - Stopping bookmanage.exe
+2021-11-12 14:20:17 - ProcessKill 6844
+2021-11-12 14:20:17 - Found child process: 6700 Name: conhost.exe
+2021-11-12 14:20:17 - Found child process: 8148 Name: node.exe
+2021-11-12 14:20:17 - Stopping process 6700
+2021-11-12 14:20:17 - Send SIGINT 6700
+2021-11-12 14:20:17 - SIGINT to 6700 failed - Killing as fallback
+2021-11-12 14:20:18 - Stopping process 8148
+2021-11-12 14:20:18 - Send SIGINT 8148
+2021-11-12 14:20:18 - SIGINT to 8148 failed - Killing as fallback
+2021-11-12 14:20:18 - Stopping process 6844
+2021-11-12 14:20:18 - Send SIGINT 6844
+2021-11-12 14:20:18 - SIGINT to 6844 failed - Killing as fallback
+2021-11-12 14:20:18 - Finished bookmanage.exe
+2021-11-12 14:20:20 - Starting D:\nodejs\node.exe  --harmony D:\nodejs\2.0\GMF_demoV2\node_modules\node-windows\lib\wrapper.js --file D:\nodejs\2.0\GMF_demoV2\server\index.js --scriptoptions= --log "bookmanage wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-11-12 14:20:20 - Started 4824
+2021-11-12 16:23:37 - Stopping bookmanage.exe
+2021-11-12 16:23:37 - ProcessKill 4824
+2021-11-12 16:23:38 - Found child process: 16988 Name: conhost.exe
+2021-11-12 16:23:38 - Found child process: 17220 Name: node.exe
+2021-11-12 16:23:38 - Stopping process 16988
+2021-11-12 16:23:38 - Send SIGINT 16988
+2021-11-12 16:23:38 - SIGINT to 16988 failed - Killing as fallback
+2021-11-12 16:23:39 - Stopping process 17220
+2021-11-12 16:23:39 - Send SIGINT 17220
+2021-11-12 16:23:39 - SIGINT to 17220 failed - Killing as fallback
+2021-11-12 16:23:39 - Stopping process 4824
+2021-11-12 16:23:39 - Send SIGINT 4824
+2021-11-12 16:23:39 - SIGINT to 4824 failed - Killing as fallback
+2021-11-12 16:23:39 - Finished bookmanage.exe

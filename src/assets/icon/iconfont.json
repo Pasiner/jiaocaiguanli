@@ -1,0 +1,37 @@
+{
+  "id": "2643660",
+  "name": "no name",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "4503738",
+      "name": "书籍",
+      "font_class": "noun__cc",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "6970019",
+      "name": "管理",
+      "font_class": "guanli",
+      "unicode": "e6fd",
+      "unicode_decimal": 59133
+    },
+    {
+      "icon_id": "8497502",
+      "name": "教师画像",
+      "font_class": "jiaoshihuaxiang",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "688108",
+      "name": "搜索 详情",
+      "font_class": "sousuoxiangqing",
+      "unicode": "e793",
+      "unicode_decimal": 59283
+    }
+  ]
+}

@@ -9,7 +9,7 @@ class DBHelper {
       host: '127.0.0.1',
       port: '3306',
       user: 'root',
-      password: '123456',
+      password: 'xll123456',
       database: 'testdata' // 数据库名
     })
     conn.connect()
